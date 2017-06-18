@@ -1,0 +1,24 @@
+{
+  "name": "aliyun-oss-purejs",
+  "version": "0.0.0",
+  "description": "A pure JS Aliyun OSS client suitable for React Native usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register --require babel-polyfill --reporter spec"
+  },
+  "author": "Tiangang (cPolaris)",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-react-native": "^2.0.0",
+    "babel-register": "^6.24.1",
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0",
+    "mocha": "^3.4.2"
+  }
+}
