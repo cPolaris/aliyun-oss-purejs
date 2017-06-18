@@ -1,6 +1,16 @@
-**Unfinished**
+[![npm version](https://badge.fury.io/js/aliyun-oss-purejs.svg)](https://badge.fury.io/js/aliyun-oss-purejs)
+
+**DANGER: UNFINISHED**
 
 A minimal Aliyun OSS service SDK in pure, modern JS intended for React Native usage.
+
+### Why
+
+Aliyun does provide [official SDKs](#see-also) for NodeJS, browser, iOS and Android. But:
+
+- NodeJS SDK relies on native modules (e.g. crypto)
+- Browser SDK relies on assigning to the global object
+- While I am confident with packaging an Android native module, I cannot write Objective-C and it is absolutely not one of the languages I'd like to learn next
 
 ### Implemented features
 

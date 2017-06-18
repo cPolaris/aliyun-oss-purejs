@@ -23,7 +23,7 @@ describe('BaseClient', () => {
       assert.strictEqual(testClient.bucketName, TEST_CONFIG.bucketName);
     });
     it('has correct bucket URL', () => {
-      assert.strictEqual(testClient.bucketBaseUrl, `http://${TEST_CONFIG.bucketName}.${TEST_CONFIG.endpoint}`);
+      assert.strictEqual(testClient.bucketBaseUrl, `https://${TEST_CONFIG.bucketName}.${TEST_CONFIG.endpoint}`);
     });
   });
 
