@@ -8,9 +8,7 @@
   },
   "author": "Tiangang (cPolaris)",
   "license": "MIT",
-  "dependencies": {
-    "crypto-js": "^3.1.9-1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "babel-polyfill": "^6.23.0",
