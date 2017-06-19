@@ -8,6 +8,10 @@
   },
   "author": "Tiangang (cPolaris)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cPolaris/aliyun-oss-purejs.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.2.3",

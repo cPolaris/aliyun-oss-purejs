@@ -9,6 +9,7 @@
         "import"
     ],
     "rules": {
+        "no-bitwise": "off",
         "no-console": "off",
         "no-underscore-dangle": "off"
     }
