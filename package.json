@@ -1,6 +1,6 @@
 {
   "name": "aliyun-oss-purejs",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A pure JS Aliyun OSS client suitable for React Native usage",
   "main": "index.js",
   "scripts": {
