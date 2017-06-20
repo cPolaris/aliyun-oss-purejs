@@ -1,4 +1,8 @@
-[![npm version](https://badge.fury.io/js/aliyun-oss-purejs.svg)](https://badge.fury.io/js/aliyun-oss-purejs)
+### Deprecated
+
+Currently, Android support for `fetch` might be incomplete. Network error arises when I try to upload local binary file.
+
+Use https://github.com/SpadeGod/react-native-aliyun-oss for real projects.
 
 **DANGER: UNFINISHED**
 
