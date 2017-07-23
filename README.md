@@ -1,6 +1,6 @@
-### Deprecated
+### DEPRECATED 
 
-Currently, Android support for `fetch` might be incomplete. Network error arises when I try to upload local binary file.
+Currently, Android support for `fetch` API might be incomplete. Network error arises when I try to post file from local file system. The same code runs fine on iOS.
 
 Use https://github.com/SpadeGod/react-native-aliyun-oss for real projects.
 
